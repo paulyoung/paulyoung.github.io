@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Paul Young - Articles</title>
+    <description>Software Engineer</description>
+    <link>
+    </link>
+    
+      
+      <item>
+        <title>BAYGAME</title>
+        
+          <description>&lt;p&gt;&lt;img src=&quot;assets/images/baygame_patch_dribbble.png&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Something I did for last year for &lt;a href=&quot;http://www.baygameonline.com/&quot;&gt;BAYGAME&lt;/a&gt; which made it onto a couple of &lt;a href=&quot;http://baygameonline.bigcartel.com/product/homegrown-snapback-navy&quot;&gt;snapbacks&lt;/a&gt;.&lt;/p&gt;
+</description>
+        
+        <pubDate>Tue, 23 May 2017 12:00:00 +0000</pubDate>
+        <link>
+        /baygame</link>
+        <guid isPermaLink="true">/baygame</guid>
+      </item>
+      
+    
+      
+      <item>
+        <title>Elm Native logo</title>
+        
+          <description>&lt;p&gt;&lt;img src=&quot;assets/images/elm_native.png&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://github.com/ohanhi/elm-native&quot; target=&quot;_blank&quot; rel=&quot;nofollow noreferrer&quot;&gt;Elm Native&lt;/a&gt; is a project to enable support for writing &lt;a href=&quot;https://facebook.github.io/react-native/&quot; target=&quot;_blank&quot; rel=&quot;nofollow noreferrer&quot;&gt;React Native&lt;/a&gt; powered mobile applications in the &lt;a href=&quot;http://elm-lang.org/&quot; target=&quot;_blank&quot; rel=&quot;nofollow noreferrer&quot;&gt;Elm language&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;I designed this logo combining the colorful &lt;a href=&quot;https://github.com/elm-lang/package.elm-lang.org/blob/master/assets/elm_logo.svg&quot; target=&quot;_blank&quot; rel=&quot;nofollow noreferrer&quot;&gt;Elm logo&lt;/a&gt; with the familiar &lt;a href=&quot;https://commons.wikimedia.org/wiki/File:React.js_logo.svg&quot; target=&quot;_blank&quot; rel=&quot;nofollow noreferrer&quot;&gt;React logo&lt;/a&gt;, and it has since been adopted by the project.&lt;/p&gt;
+
+&lt;p&gt;The background image is a &lt;a href=&quot;https://unsplash.com/photos/WE7nMfgqG78&quot; target=&quot;_blank&quot; rel=&quot;nofollow noreferrer&quot;&gt;photograph of the Golden Gate bridge, by Abigail Keenan&lt;/a&gt;.&lt;/p&gt;
+</description>
+        
+        <pubDate>Wed, 02 Dec 2015 12:00:00 +0000</pubDate>
+        <link>
+        /elm-native-logo</link>
+        <guid isPermaLink="true">/elm-native-logo</guid>
+      </item>
+      
+    
+      
+      <item>
+        <title>Functionauts</title>
+        
+          <description>&lt;p&gt;&lt;img src=&quot;assets/images/functionauts.png&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Branding and identity for my side projects in functional programming &lt;a href=&quot;https://github.com/functionauts&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;on GitHub&lt;/a&gt;.&lt;/p&gt;
+</description>
+        
+        <pubDate>Sun, 02 Aug 2015 12:00:00 +0000</pubDate>
+        <link>
+        /functionauts</link>
+        <guid isPermaLink="true">/functionauts</guid>
+      </item>
+      
+    
+      
+      <item>
+        <title>CocoaFlow</title>
+        
+          <description>&lt;p&gt;&lt;img src=&quot;assets/images/cocoaflow.png&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://cocoaflow.org/&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;CocoaFlow&lt;/a&gt; is an implementation of flow-based programming on Mac and iOS.&lt;/p&gt;
+
+&lt;p&gt;The project is still experimental / work in progress.&lt;/p&gt;
+
+&lt;p&gt;This quick logo was inspired by a slide in a talk on Functional Reactive Programming by &lt;a href=&quot;https://ashfurrow.com&quot; target=&quot;_blank&quot;&gt;Ash Furrow&lt;/a&gt;.&lt;/p&gt;
+</description>
+        
+        <pubDate>Sat, 23 May 2015 12:00:00 +0000</pubDate>
+        <link>
+        /cocoaflow</link>
+        <guid isPermaLink="true">/cocoaflow</guid>
+      </item>
+      
+    
+      
+      <item>
+        <title>The Grid</title>
+        
+          <description>&lt;p&gt;&lt;img src=&quot;assets/images/the_grid_logo.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;I’m finally able to share that I recently joined &lt;a href=&quot;https://thegrid.io/#14&quot; target=&quot;_blank&quot;&gt;The Grid&lt;/a&gt;!&lt;/p&gt;
+
+&lt;p&gt;I feel proud to be a part of the team behind &lt;a href=&quot;http://gridstylesheets.org&quot; target=&quot;_blank&quot;&gt;GSS&lt;/a&gt;, &lt;a href=&quot;http://noflojs.org&quot; target=&quot;_blank&quot;&gt;NoFlo&lt;/a&gt;, &lt;a href=&quot;https://flowhub.io&quot; target=&quot;_blank&quot;&gt;FlowHub&lt;/a&gt;, and more.&lt;/p&gt;
+
+&lt;h2&gt;Backing the Future&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&quot;assets/images/the_grid_noflo.png&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;I first encountered The Grid last year when I backed the &lt;a href=&quot;https://www.kickstarter.com/projects/noflo/noflo-development-environment&quot; target=&quot;_blank&quot;&gt;NoFlo Development Environment on Kickstarter&lt;/a&gt;, and again a few months ago after working with Auto Layout on iOS.&lt;/p&gt;
+
+&lt;blockquote class=&quot;twitter-tweet&quot; lang=&quot;en-gb&quot;&gt;GSS brings the constraint-solving Autolayout in iOS to the browser: &lt;a href=&quot;http://t.co/DxUDiuvnYj&quot;&gt;http://t.co/DxUDiuvnYj&lt;/a&gt; - center any element in another with a one-liner
+— Addy Osmani (@addyosmani) &lt;a href=&quot;https://twitter.com/addyosmani/statuses/441890815787692032&quot;&gt;March 7, 2014&lt;/a&gt;&lt;/blockquote&gt;
+
+&lt;p&gt;At that time I was frustrated with web development and had sought refuge in producing native applications. Underwhelmed by the current landscape, I wondered if I’d ever go back.&lt;/p&gt;
+
+&lt;blockquote&gt;I kept dreaming of a world I thought I’d never see. And then, one day… I got in.
+- Tron Legacy&lt;/blockquote&gt;
+
+&lt;p&gt;The Grid changed all of that. Here are just a few reasons why I’m excited about what we’re doing:&lt;/p&gt;
+
+&lt;h2&gt;Remote&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&quot;assets/images/the_grid_hangout.png&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;We’re a distributed team comprised of people across 7 countries. I love that our culture supports working remotely where geography isn’t a barrier to working with great people. Everyone I’ve come into contact with has been incredibly talented and humble.&lt;/p&gt;
+
+&lt;h2&gt;Style &amp;amp; Substance&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&quot;assets/images/the_grid_adapts.png&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Design is given the attention it deserves. In conjunction with the innovative technology required to make them a reality, beautiful aesthetics are at the forefront of everything we do.&lt;/p&gt;
+
+&lt;h2&gt;Open Source&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&quot;assets/images/the_grid_open_source.png&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Just take a look at &lt;a href=&quot;https://github.com/noflo&quot; target=&quot;_blank&quot;&gt;one&lt;/a&gt; or &lt;a href=&quot;https://github.com/gss&quot; target=&quot;_blank&quot;&gt;two&lt;/a&gt; of our organizations on GitHub and it’s easy to see that we believe in open source. I’m a big proponent for writing software in an open source environment that encourages collaboration and produces more modular, testable code with better documentation.&lt;/p&gt;
+&lt;h2&gt;A Digital Frontier&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&quot;assets/images/the_grid_net_mag.png&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Years of development have been invested into projects like these to facilitate building our platform, which launches soon.&lt;/p&gt;
+
+&lt;p&gt;I’m continually blown away by what we’re doing and I can’t wait for everyone else to experience it too.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;assets/images/the_grid_footer.png&quot; /&gt;&lt;/p&gt;
+</description>
+        
+        <pubDate>Fri, 04 Jul 2014 12:00:00 +0000</pubDate>
+        <link>
+        /the-grid</link>
+        <guid isPermaLink="true">/the-grid</guid>
+      </item>
+      
+    
+      
+      <item>
+        <title>Statusfy</title>
+        
+          <description>&lt;p&gt;&lt;img src=&quot;assets/images/statusfy.png&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Spotify in your status bar.&lt;/p&gt;
+
+&lt;p&gt;&lt;img class=&quot;alignnone size-full wp-image-57&quot; src=&quot;https://paulyoung.files.wordpress.com/2016/02/tumblr_inline_n47pm8e0og1qznqrs.png&quot; alt=&quot;tumblr_inline_n47pm8E0OG1qznqrs&quot; width=&quot;500&quot; height=&quot;76&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;I wrote a little Mac app that displays information about the track that’s currently playing in Spotify.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://github.com/paulyoung/Statusfy/releases&quot; target=&quot;_blank&quot;&gt;Download&lt;/a&gt; it for free or check out the source code &lt;a href=&quot;https://github.com/paulyoung/Statusfy&quot; target=&quot;_blank&quot;&gt;on GitHub&lt;/a&gt;.&lt;/p&gt;
+</description>
+        
+        <pubDate>Fri, 18 Apr 2014 12:00:00 +0000</pubDate>
+        <link>
+        /statusfy</link>
+        <guid isPermaLink="true">/statusfy</guid>
+      </item>
+      
+    
+      
+      <item>
+        <title>Jade Inheritance</title>
+        
+          <description>&lt;p&gt;&lt;em&gt;TL;DR I created &lt;a href=&quot;https://github.com/paulyoung/jade-inheritance&quot; target=&quot;_blank&quot;&gt;jade-inheritance&lt;/a&gt; to understand the dependencies between &lt;a href=&quot;https://github.com/pugjs/jade&quot; target=&quot;_blank&quot;&gt;Jade&lt;/a&gt; templates in order to only compile the files I needed.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;In a previous post I described how some much needed updates to our Jade templates at CrowdTwist came at the cost of slowing down our development time.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://imgs.xkcd.com/comics/compiling.png&quot; alt=&quot;'Are you stealing those LCDs?' 'Yeah, but I'm doing it while my code compiles.'&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;At first I thought, “Sure. We’re doing some pretty complicated stuff now and our app has grown, so it’s bound to take longer.”&lt;/p&gt;
+
+&lt;p&gt;But then it hit me – our watch task (which monitors changes to our templates) was compiling &lt;strong&gt;everything&lt;/strong&gt; everytime I edited something. Even if the edited file lived in total isolation, the entire app’s Jade files were getting compiled into HTML.&lt;/p&gt;
+
+&lt;p&gt;And it was taking &lt;strong&gt;57s&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;Even for the smallest change. Fixing a typo, iterating on a feature, anything at all.&lt;/p&gt;
+
+&lt;h2&gt;The Problem&lt;/h2&gt;
+&lt;p&gt;I started by asking, “Why?”.&lt;/p&gt;
+
+&lt;p&gt;Why were we compiling all of our templates when potentially only one of them had changed?&lt;/p&gt;
+
+&lt;p&gt;Well, there was the possibility that the changes to the modified file could impact the output of other files. Updating a file which was extended or included by other files would require those files to be recompiled too.&lt;/p&gt;
+
+&lt;h2&gt;The Solution&lt;/h2&gt;
+&lt;p&gt;To solve this problem I created &lt;a href=&quot;https://github.com/paulyoung/jade-inheritance&quot; target=&quot;_blank&quot;&gt;jade-inheritance&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Given a Jade file and a directory, it will determine which files within that directory extend or include the file. By passing a modified file to jade-inheritance it’s possible to understand which other files should be recompiled. On the file with the most dependants in our project, this additional processing can be done in around 1.5s.&lt;/p&gt;
+
+&lt;h2&gt;Conclusion&lt;/h2&gt;
+&lt;p&gt;Now, modifying a file which is completely isolated takes only &lt;strong&gt;0.15s&lt;/strong&gt;. A 99.7% improvement, with other files of varying dependence compiling in much less time too.&lt;/p&gt;
+</description>
+        
+        <pubDate>Fri, 20 Sep 2013 12:00:00 +0000</pubDate>
+        <link>
+        /jade-inheritance</link>
+        <guid isPermaLink="true">/jade-inheritance</guid>
+      </item>
+      
+    
+  </channel>
+</rss>
